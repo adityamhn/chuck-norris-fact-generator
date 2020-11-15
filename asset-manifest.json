@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/chuck-norris-fact-generator/static/css/main.95e98a68.chunk.css",
+    "main.js": "/chuck-norris-fact-generator/static/js/main.3007df4d.chunk.js",
+    "main.js.map": "/chuck-norris-fact-generator/static/js/main.3007df4d.chunk.js.map",
+    "runtime-main.js": "/chuck-norris-fact-generator/static/js/runtime-main.e2b933f7.js",
+    "runtime-main.js.map": "/chuck-norris-fact-generator/static/js/runtime-main.e2b933f7.js.map",
+    "static/css/2.31461e4f.chunk.css": "/chuck-norris-fact-generator/static/css/2.31461e4f.chunk.css",
+    "static/js/2.aa369bc1.chunk.js": "/chuck-norris-fact-generator/static/js/2.aa369bc1.chunk.js",
+    "static/js/2.aa369bc1.chunk.js.map": "/chuck-norris-fact-generator/static/js/2.aa369bc1.chunk.js.map",
+    "static/js/3.49a911dd.chunk.js": "/chuck-norris-fact-generator/static/js/3.49a911dd.chunk.js",
+    "static/js/3.49a911dd.chunk.js.map": "/chuck-norris-fact-generator/static/js/3.49a911dd.chunk.js.map",
+    "index.html": "/chuck-norris-fact-generator/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/chuck-norris-fact-generator/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.95e98a68.chunk.css.map": "/chuck-norris-fact-generator/static/css/main.95e98a68.chunk.css.map",
+    "static/js/2.aa369bc1.chunk.js.LICENSE.txt": "/chuck-norris-fact-generator/static/js/2.aa369bc1.chunk.js.LICENSE.txt",
+    "static/media/giphy.470dfb5b.gif": "/chuck-norris-fact-generator/static/media/giphy.470dfb5b.gif",
+    "static/media/image.01717966.png": "/chuck-norris-fact-generator/static/media/image.01717966.png",
+    "static/media/oval.15fe923a.svg": "/chuck-norris-fact-generator/static/media/oval.15fe923a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b933f7.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.aa369bc1.chunk.js",
+    "static/css/main.95e98a68.chunk.css",
+    "static/js/main.3007df4d.chunk.js"
+  ]
+}
